@@ -12,6 +12,17 @@ public class GreensTech {
 	private void greensOmr(int student,String address) {
 		System.out.println("Number of Students is"+student+"\nAddress is "+address);
 	}
+	private void method4() {
+		System.out.println("4");
+	}
+	private void method5() {
+		System.out.println("5");
+
+	}
+	private void method6() {
+		System.out.println("6");
+
+	}
 	public static void main(String[] args) {
 		GreensTech g = new GreensTech();
 		g.greensOmr(20);
